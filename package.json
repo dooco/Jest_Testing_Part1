@@ -1,0 +1,22 @@
+{
+  "name": "jest_testing_part1",
+  "version": "1.0.0",
+  "description": "This repository contains the final code solutions for the first part of the JavaScript Testing with Jest syllabus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dooco/Jest_Testing_Part1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dooco/Jest_Testing_Part1/issues"
+  },
+  "homepage": "https://github.com/dooco/Jest_Testing_Part1#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
